@@ -1,0 +1,26 @@
+{
+  "name": "booksearcher",
+  "version": "1.0.0",
+  "description": "book api searcher",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "build": "cd client && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateJonesIII/bookSearcher.git"
+  },
+  "author": "Nate Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateJonesIII/bookSearcher/issues"
+  },
+  "homepage": "https://github.com/NateJonesIII/bookSearcher#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^6.2.1"
+  }
+}
