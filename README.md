@@ -12,20 +12,20 @@
 
 ## Usage
 
-TO allow users to search google books, make an account and save them
+To allow users to search google books, make an account profile and save their favorite books.
 
 ## Screenshots
 
-- <img width="500" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Category.PNG?raw=true">
+- <img width="500" alt="Tag" src="https://github.com/NateJonesIII/BookSearcher/blob/master/client/assets/Home.PNG">
 
-- <img width="500" alt="Tag" src="https://github.com/NateJonesIII/eCommerce_BackEnd/blob/main/assets/Products.PNG?raw=true">
+- <img width="500" alt="Tag" src="https://github.com/NateJonesIII/BookSearcher/blob/master/client/assets/theMatrix.PNG">
 
 ## Technology
 
 - MongoDB, Mongoose
 - JS, HTML, CSS
 - Node.js, Express.js
-- Graphql, Apollo-server
+- Graphql, Apollo-server, JWT
 
 ## Creator
 
