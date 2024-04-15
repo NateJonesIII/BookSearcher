@@ -34,11 +34,7 @@ To run this project locally, follow these steps:
 
 Clone the repository
 Install dependencies
-Set up schema variables - 
--MONGO_URL = {Your URL}
--PORT = {Your Port}
--PASSWORD_KEY = {Your DB password}
--JWT_KEY = {Your token key}
+Set up schema variables - in DB
 Access the website at http://localhost:3000 in your web browser.
 
 ## Creator
