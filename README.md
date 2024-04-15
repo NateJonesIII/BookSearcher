@@ -30,12 +30,15 @@ To allow users to search google books, make an account profile and save their fa
 - Graphql, Apollo-server, JWT
 
 ## Installation
-To run this project locally, follow these steps:
+To run this project locally, follow these steps: 
 
 Clone the repository
 Install dependencies
-Set up environment variables - Create a .env file in the root directory and add the following variables: a. PORT = 3000 b. MONGODB_URI = <your_URL> c. PASSWORD_KEY = <your_secret_key> d. JWT_KEY = <your_jwt_key>
-Use 'npm run dev' to run using nodemon
+Set up schema variables - 
+-MONGO_URL = {Your URL}
+-PORT = {Your Port}
+-PASSWORD_KEY = {Your DB password}
+-JWT_KEY = {Your token key}
 Access the website at http://localhost:3000 in your web browser.
 
 ## Creator
